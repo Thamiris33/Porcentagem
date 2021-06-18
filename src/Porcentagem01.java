@@ -9,6 +9,7 @@ public class Porcentagem01 {
 
         float saldo;
         float taxaDeReajuste= 1;
+        // teste
 
         System.out.println("Digite saldo: ");
         saldo = entrada.nextFloat();
